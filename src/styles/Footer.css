@@ -1,0 +1,12 @@
+.footer{
+    position: relative;
+    bottom: 0;
+    height: 10vh; 
+    width: 100%;
+    background: #528AAE;
+    color: #ffff;
+}
+
+/* 528AAE light blue. vh value is respect to screen size i.e if screen width is 1200px = 100vh then 600px =50vh
+300px = 25vh and 150px ~= 12vh
+pixel is fixed and vh is set on /depend on screen size/width */
